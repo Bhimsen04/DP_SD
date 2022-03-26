@@ -21,6 +21,5 @@ public class Main_ClientClass {
 		 * SingletonClass obj5 = SingletonClass.singletonInstance; getting error bcz
 		 * variable is private
 		 */
-		System.out.println("homeConstructedAtTheEnd");
 	}
 }
